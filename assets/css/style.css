@@ -3306,8 +3306,8 @@ a:focus {
 
 @font-face {
   font-family: "porto";
-  src: url("../fonts/porto.eot@64334846");
-  src: url("../fonts/porto.eot@64334846") format("embedded-opentype"), url("../fonts/porto.woff2@64334846") format("woff2"), url("../fonts/porto.woff@64334846") format("woff"), url("../fonts/porto.ttf@64334846") format("truetype"), url("../fonts/porto.svg@64334846") format("svg");
+  src: url("../fonts/porto.eot");
+  src: url("../fonts/porto.eot") format("embedded-opentype"), url("../fonts/porto.woff2") format("woff2"), url("../fonts/porto.woff") format("woff"), url("../fonts/porto.ttf") format("truetype"), url("../fonts/porto.svg") format("svg");
   font-style: normal;
   font-weight: normal;
   font-display: swap;
